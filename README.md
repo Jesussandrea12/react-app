@@ -220,10 +220,8 @@ Para probar todo esto use la App de **Expo.io** en mi telefono.
 ---
 
 ### Capturas
-Mockup 1
 ![alt text](https://preview.ibb.co/hGdk3n/Screenshot_20180506_131123.png "Image 1")
 
 ![alt text](https://preview.ibb.co/fPknG7/Screenshot_20180506_131130.jpg "Image 2")
 
-Mockup 2
 ![alt text](https://preview.ibb.co/nOoJOn/Screenshot_20180506_131149.png "Image 3")
